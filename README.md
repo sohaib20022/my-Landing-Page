@@ -1,2 +1,2 @@
-# my-Landing-Page
-for my project
+# my Landing Page
+for Maze poject
